@@ -1,0 +1,1 @@
+models/iot_temperature_model.pkl
