@@ -1,1 +1,1 @@
-This project consists of building an ML model that predicts the temperature based on the humidity and pression and implementing it in a streamlit dashboard. Check "Aziz_HACHICHA_2IDSD1_Compte_Rendu_TP2_Donnéesmassives&IOT.pdsf" for more details.
+This project consists of building an ML model that predicts the temperature based on the humidity and pression and implementing it in a streamlit dashboard. Check "Aziz_HACHICHA_2IDSD1_Compte_Rendu_TP2_Donnéesmassives&IOT.pdf" for more details.
